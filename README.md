@@ -47,18 +47,6 @@
 
 🚧 Projects Coming Soon...
 Will upload full-stack and frontend projects shortly!
-## 📊 **GitHub Stats (Dark Theme)**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Darpan3089&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Darpan3089&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darpan3089&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 **Connect With Me**
 <p align="left">
