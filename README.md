@@ -43,35 +43,10 @@
 
 ---
 
-## 📂 **Highlighted Projects**
+📌 Projects
 
-### 🔥 **1. E-Commerce Platform (React + Redux Toolkit)**
-- Product listing, cart, checkout  
-- Auth + protected routes  
-- Fully responsive  
-👉 *Repo:* Coming Soon  
-👉 *Live:* Coming Soon  
-
----
-
-### ⚡ **2. Next.js Admin Dashboard**
-- Analytics, charts, dynamic pages  
-- Theme switching (dark/light)  
-- SSR + API handling  
-👉 *Repo:* Coming Soon  
-👉 *Live:* Coming Soon  
-
----
-
-### 📝 **3. MERN Authentication System**
-- JWT + Refresh Token  
-- bcrypt Password Hashing  
-- Role-based access  
-👉 *Repo:* Coming Soon  
-👉 *Live:* Coming Soon  
-
----
-
+🚧 Projects Coming Soon...
+Will upload full-stack and frontend projects shortly!
 ## 📊 **GitHub Stats (Dark Theme)**
 
 <p align="center">
